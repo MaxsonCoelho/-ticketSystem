@@ -59,10 +59,12 @@ form button{
     background-color: #181c2e;
     color: #FFF;
     font-size: 1.3em;
+    cursor: pointer;
   }
 
-.login a{
+  .login a{
     margin: 1.5em 0;
     color: #000;
     cursor: pointer;
 }
+
